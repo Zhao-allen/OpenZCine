@@ -252,3 +252,4 @@ jobs:
       - name: Validate Worker
         working-directory: services/bug-relay
         run: npm run check
+ 
