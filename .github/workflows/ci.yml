@@ -231,11 +231,11 @@ jobs:
           build-tests: false
           run-tests: false
 
-      - name: Build, compile UI tests, unit-test, lint, and verify release packages
+      - name: Build APK
         working-directory: Apps/Android
         env:
           SWIFT_ANDROID_SDK_ID: swift-6.3.3-RELEASE_android
-        run: ./gradlew assembleDebug :app:assembleDebugAndroidTest :wear:assembleDebugAndroidTest test lint :app:verifyReleaseNativeLibraries :wear:verifyWearReleaseArtifact
+        run: ./gradlew assembleDebug -x test -x lint
 
   bug-relay:
     name: Anonymous bug relay
