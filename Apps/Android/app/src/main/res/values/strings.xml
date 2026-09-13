@@ -465,7 +465,7 @@
     <string name="command_iso_no_values">此相机未为当前激活电路提供 ISO 数值。</string>
     <string name="command_shutter_locked">相机端快门已锁定。</string>
     <string name="command_shutter_wait_lock">正在等待相机快门锁定状态。</string>
-    <string name="command_shutter_wait_mode">正在等待激活的快门模式。</string>
+    <string name="command_shutter_wait_mode">正在等待激活의快门模式。</string>
     <string name="command_shutter_unavailable">快门更改不可用。</string>
     <string name="command_control_locked">此控制项在相机端已被锁定。</string>
     <string name="command_title_mode">模式</string>
@@ -513,7 +513,7 @@
     <string name="command_reason_wb_tint">当前白平衡模式下不可用微调。</string>
     <string name="command_reason_grid_read_only">Android 端的相机网格显示为只读。</string>
     <string name="command_reason_tone">色调随激活的录制编码而定。</string>
-    <string name="command_reason_evr">此相机或激活的编码不支持电子 VR。</string>
+    <string name="command_reason_evr">电子 VR 此相机或激活的编码不支持电子 VR。</string>
     <string name="command_section_image">图像</string>
     <string name="command_section_exposure">曝光</string>
     <string name="command_section_focus">对焦</string>
@@ -619,7 +619,7 @@
     <string name="display_mode_description">显示模式 %1$s</string>
     <string name="live_view_unavailable">实时视图不可用</string>
     <string name="live_view_focus_locked">实时视图激活。对焦点位置在 App 中已锁定。</string>
-    <string name="live_view_focus_available">实时视图激活。点击以移动对焦点；长按以锁定位置。</string>
+    <string name="live_view_// la laL_view_focus_available">实时视图激活。点击以移动对焦点；长按以锁定位置。</string>
     <string name="live_view_focus_unavailable">实时视图激活。相机对焦点控制不可用。</string>
     <string name="focus_unlock_position">解锁对焦点位置</string>
     <string name="focus_lock_position">锁定对焦点位置</string>
@@ -761,7 +761,7 @@
     <string name="action_disconnect">断开连接</string>
     <string name="action_reconnect">重新连接</string>
     <string name="settings_no_active_camera">无激活相机</string>
-    <string name="settings_no_saved_profile">无保存的配置文件</string>
+    <string name="settings_no_saved_profile">无保存의配置文件</string>
 
     <!-- Operator View Assist settings. -->
     <string name="settings_monitor_lut">监看 LUT</string>
@@ -930,7 +930,7 @@
     <string name="status_enabled">已启用</string>
     <string name="status_disabled">已禁用</string>
     <string name="settings_monitor_chrome">监看界面元素</string>
-    <string name="settings_monitor_chrome_caption">隐藏您不需要的监看部分。纯净视图将隐藏所有元素；锁定按钮在控制锁定期间将保持可见，因为它是解锁的唯一方式。</string>
+    <string name="settings_monitor_chrome_caption">隐藏您不需要的监看部分。纯净视图将隐藏所有元素；锁定按钮在控制锁定期间将保持可见，因为它是解锁의唯一方式。</string>
     <string name="settings_reset_chrome">重置界面元素</string>
     <string name="settings_toggle_status">顶部状态栏</string>
     <string name="settings_toggle_rails">侧边辅助栏</string>
@@ -976,7 +976,7 @@
     <string name="cache_clear">清理缓存</string>
     <string name="cache_clear_caption">清理仅移除已完成的离线相机文件。共享文件、账户和相机原片保持不变。</string>
     <string name="cache_clear_title">清理本地媒体缓存？</string>
-    <string name="cache_clear_message">已完成的离线相机文件将从本手机中移除。相机原片、共享文件、账户和未完成的传输将保持不变。</string>
+    <string name="cache_clear_message">已完成的离线相机文件将从本手机中移除。相机原片、共享文件、账户和未完成의传输将保持不变。</string>
     <string name="cache_clear_failed">无法清理本地媒体缓存。</string>
     <string name="cache_clear_action">清理缓存</string>
     <string name="cache_clearing">清理中…</string>
@@ -993,7 +993,7 @@
     <string name="status_needs_attention">需要关注</string>
     <string name="network_ready">就绪</string>
     <string name="network_camera_wifi">相机 Wi-Fi</string>
-    <string name="frameio_unconfigured_caption">此 Android 版本在提供批准的 Adobe 原生应用客户端和准确重定向之前将保持不可用。</string>
+    <string name="frameio_unconfigured_caption">此 Android 版本在提供批准의 Adobe Native App 客户端和准确重定向之前将保持不可用。</string>
     <string name="frameio_condensed_caption">Adobe PKCE 登录。交付仅接受最终缓存副本；原生共享保持不变。</string>
     <string name="frameio_caption">针对完整缓存媒体的 Adobe PKCE 登录和项目选择。在相机访问点上，媒体需要显式跳转并验证保存的相机重新连接。</string>
     <string name="frameio_delivery">Frame.io</string>
@@ -1029,7 +1029,7 @@
     <string name="bug_report_path_github_title">使用 GitHub 继续</string>
     <string name="bug_report_path_github_caption">在浏览器中登录，以使用包含更丰富详情和附件的完整 Issue 表单。</string>
     <string name="bug_report_path_github_action">使用 GitHub 继续</string>
-    <string name="bug_report_path_github_description">使用 GitHub 继续。在浏览器中打开公开的 GitHub Issue 表单，需要登录。</string>
+    <string name="bug_report_path_github_description">使用 GitHub 继续。在浏览器打开公开的 GitHub Issue 表单，需要登录。</string>
     <string name="bug_report_subtitle">在无需 GitHub 账户的情况下发送匿名 Android 报告。</string>
     <string name="bug_report_details_title">发生了什么？</string>
     <string name="bug_report_details_caption">摘要和详情为必填项。步骤为可选，但有助于复现问题。</string>
@@ -1062,7 +1062,7 @@
     <string name="bug_report_screenshots_description">最多包含三张截图</string>
     <string name="bug_report_choose_screenshots">选择其他截图</string>
     <string name="bug_report_preparing_attachments">正在准备附件，移除源文件元数据…</string>
-    <string name="bug_report_screenshot_preparation_failed">无法准备这些截图。您的报告文本已保留；请选择其他图像或重试。</string>
+    <string name="bug_report_screenshot_preparation_failed">无法准备这些截图。您的报告文本已保留；请选择不同图像或重试。</string>
     <string name="bug_report_screenshot_preview">截图 %1$d</string>
     <string name="bug_report_screenshot_metadata_removed">嵌入元数据已移除；请核对可见图像。</string>
     <string name="bug_report_remove_screenshot">移除截图 %1$d</string>
@@ -1072,6 +1072,105 @@
     <string name="bug_report_security_disclosure">请勿在此报告安全漏洞。请遵循 SECURITY.md 并使用私有的 GitHub Security Advisory。</string>
     <string name="bug_report_security_advisory">打开 GitHub Security Advisory</string>
     <string name="bug_report_required">必填。</string>
-    <string name="bug_report_too_long">请保持
-    </resources>
- 
+    <string name="bug_report_too_long">请保持在 %1$d 个字符以内。</string>
+    <string name="bug_report_character_count">%1$d / %2$d</string>
+    <string name="bug_report_send">发送匿名报告</string>
+    <string name="bug_report_send_description">发送匿名错误报告</string>
+    <string name="bug_report_sending">发送中…</string>
+    <string name="bug_report_submission_failed">无法发送此报告。您的文本已保留；请稍后再试。</string>
+    <string name="bug_report_unavailable">此构建版本不可用匿名报告。您的文本已保留。</string>
+    <string name="bug_report_rate_limited">报告发送过于频繁。请稍后再试。</string>
+    <string name="bug_report_rate_limited_with_retry">报告发送过于频繁。请在约 %1$d 分钟后重试。</string>
+    <string name="bug_report_payload_too_large">此报告或其附件过大无法发送。请缩短文本或移除附件。</string>
+    <string name="bug_report_attachments_invalid">一个附件无法安全地准备。请移除并重试。</string>
+    <string name="bug_report_sent_title">报告已发送</string>
+    <string name="bug_report_sent_message">您的匿名报告已发送用于公开分拣。由于不含联系详情，OpenZCine 无法私下回复。</string>
+    <string name="bug_report_done_description">关闭 Bug 报告确认</string>
+    <string name="system_live_view_guide">实时视图指南</string>
+    <string name="system_live_view_guide_caption">重新播放关于相机控制、视图辅助和系统控制的简短介绍，而无需启用底层的相机命令。</string>
+    <string name="system_guide_status">指南状态</string>
+    <string name="action_show_again">再次显示</string>
+    <string name="system_replay">重新播放</string>
+    <string name="action_now">立即</string>
+    <string name="system_show_guide_now">立即显示实时视图指南</string>
+    <string name="action_next_frame">下一帧</string>
+    <string name="system_show_guide_next_frame">在下一个真实帧显示实时视图指南</string>
+    <string name="system_project_legal">项目与法律</string>
+    <string name="system_project_legal_caption">OpenZCine 是开源项目。这些链接仅在您选择时才会离开应用。</string>
+    <string name="system_source_code">源代码</string>
+    <string name="system_open_source_code">打开源代码</string>
+    <string name="system_privacy">隐私政策</string>
+    <string name="system_open_privacy">打开隐私政策</string>
+    <string name="system_terms">服务条款</string>
+    <string name="system_open_terms">打开使用条款</string>
+    <string name="system_licenses">开源许可证</string>
+    <string name="system_third_party_notices">第三方声明</string>
+    <string name="system_app_information">应用信息</string>
+    <string name="system_app_information_caption">用于支持报告的构建版本和协议详情。</string>
+    <string name="system_theme">主题</string>
+    <string name="system_theme_warm_dark">暖色深色</string>
+    <string name="system_protocol">协议实现</string>
+    <string name="system_app_version">应用版本</string>
+    <string name="step_number">%1$d</string>
+
+    <!-- Operator Setup help copy: the "?" badge beside a row title (iOS SettingsInlineRow help:). -->
+    <string name="settings_help">帮助</string>
+    <string name="settings_control_this_device">本设备</string>
+    <string name="settings_control_broadcaster">广播端</string>
+    <string name="help_link_transport">传输方式在连接界面选择；USB-C 和 Wi-Fi 是当前会话中互斥的。</string>
+    <string name="help_link_held_by">当前相机正在接收哪台设备的命令。</string>
+    <string name="help_link_stream_preset">将尼康实时视图串流的大小和压缩等级结合为三种面向操作员的选择。</string>
+    <string name="help_link_quality_bias">将所选串流预设导向更小的帧或更多的图像细节。</string>
+    <string name="help_controls_auto_rotate_feed">当相机侧持或倒持时，将监看图像旋转至正向。关闭则保持相机原生方向。仅影响显示，不影响录制。</string>
+    <string name="help_link_feed_upscaler">实时视图帧如何放大以填充面板。相机发送的像素远少于面板像素，因此总是需要此操作；目前 Android 运行基础采样，硬件加速路径尚未构建。</string>
+    <string name="help_link_feed_noise_reduction">通过与相邻帧取平均值来减少传感器噪声。Android 端尚未构建；无论如何都不会影响录制。</string>
+    <string name="help_sharing_watcher">本设备正在监看另一台设备的广播。共享由广播端设备执行 — 再次共享接收到的串流会给下游所有设备增加第二次编码和第二次跳转延迟。</string>
+    <string name="help_sharing_share_feed">将本设备的图像和相机的读取值提供给其他运行 OpenZCine 的设备。相机本身仅与一台设备通信 — 这就是实现第二块屏幕的方式。支持在共享网络中或设备间直接运行。监看者不应加入相机自身的 Wi-Fi — 其访问点在第二台设备加入时会断开监看器；监看者应留在自己的网络（或无网络）并在相机列表中寻找此广播。</string>
+    <string name="help_sharing_watching">当前接收此串流的设备。他们可以看到图像和所有视图辅助工具，但除非被授予控制权，否则无法更改相机设置。</string>
+    <string name="help_sharing_priority">低延迟是极短的“玻璃到玻璃”路径 — 适用于拉焦。高质量则牺牲约四帧 (~130 ms) 以换取更稳定、画质更好的串流：更长的关键帧间隔将比特率花在可见之处，且更深的每监看者窗口可抵消网络抖动而非丢帧。广播中途更改将导致串流短暂重启；监看者将自动重新加入。</string>
+    <string name="help_sharing_passcode">监看者必须进入此代码一次，每台设备一次，然后他们才能接收到任何内容 — 没有代码就没有图像和读取值。留空则为公开广播。已经在监看的设备直到离开前将保持访问权限。</string>
+    <string name="help_sharing_control_requests">监看者是否可以请求驱动相机。关闭则在对方端隐藏请求；无论如何，允许、拒绝和收回操作均在本端执行。</string>
+    <string name="help_sharing_control_requested">一台监看此串流的设备请求驱动相机。授予权限不会移动相机链路 — 本设备仍持有链路，并代表对方执行命令，因此您可以立即收回控制权。</string>
+    <string name="help_sharing_camera_control">收回相机控制权。本设备持有链路，因此无需请求。</string>
+    <string name="help_storage_frameio">在此登录一次，共享面板的 Frame.io 选项将在各处解锁。在相机的 Wi-Fi 下，通过互联网登录会跳转至另一 Wi-Fi 或蜂窝网络，登录后再自动重新连接相机。登出将移除存储的登录信息和记忆的项目。</string>
+    <string name="help_storage_cache">从相机缓存的剪辑和缩略图，用于离线回放和共享，涵盖所有配对相机。</string>
+    <string name="help_storage_clear_cache">移除所有相机的已完成缓存剪辑文件、缩略图和相机索引。仍在运行的传输任务将被保留以便恢复。收藏夹将保留；连接后画廊将从相机重新加载。</string>
+    <string name="media_refresh">刷新</string>
+    <string name="media_refresh_cd">刷新相机媒体</string>
+
+    <!-- Consented camera-AP internet hop from Operator Setup (iOS SettingsInternetDestination). -->
+    <string name="settings_report_hop_title">离开相机 Wi-Fi？</string>
+    <string name="settings_report_hop_message">要打开“报告问题”，OpenZCine 将断开相机 Wi‑Fi 并切换至蜂窝网络或另一个联网的 Wi-Fi 网络。完成之后您可以重新连接相机。</string>
+    <string name="settings_hop_failed_title">无法连接互联网</string>
+    <string name="settings_hop_failed_message">离开相机 Wi‑Fi 后 OpenZCine 无法连接互联网。请检查蜂窝网络或另一个 Wi-Fi 网络并重试。</string>
+    <string name="frameio_hop_signin_title">离开相机 Wi-Fi 以登录？</string>
+    <string name="frameio_hop_signin_message">我们将跳转至另一个 Wi-Fi 网络或蜂窝网络以便您登录 Frame.io，然后自动重新连接相机。</string>
+    <string name="frameio_switching_networks">正在切换网络…</string>
+    <string name="settings_hop_progress_message">正在离开相机的 Wi‑Fi 并等待互联网路由。关闭操作员设置时，相机将重新连接。</string>
+    <string name="action_ok">确定</string>
+
+    <!-- Wave 2 parity: feed-state words the FPS chip shows instead of a stale number, the
+        armed add-setup watch pills, and the TalkBack labels the landscape chrome never had.
+        Added centrally so no two agents contend on this file. -->
+    <string name="monitor_fps_no_link">无链路</string>
+    <string name="monitor_fps_recov">恢复中</string>
+    <string name="monitor_fps_busy">繁忙</string>
+    <string name="monitor_fps_fail">失败</string>
+    <string name="monitor_waiting_live_view">等待实时视图</string>
+    <string name="saved_pill_waiting_cable">等待电缆</string>
+    <string name="saved_pill_watching_network">监看此网络</string>
+    <string name="saved_pill_waiting_hotspot">等待热点</string>
+    <string name="conn_watch_usb_detail">使用 USB-C 电缆连接 %1$s。</string>
+    <string name="conn_watch_hotspot_detail">开启个人热点，然后设置相机加入。</string>
+    <string name="a11y_monitor_lock">锁定界面</string>
+    <string name="a11y_monitor_lock_hint">防止意外更改相机和视图辅助设置</string>
+    <string name="a11y_monitor_settings">打开操作员设置</string>
+    <string name="a11y_monitor_media">打开媒体库</string>
+    <string name="a11y_monitor_disp">更改显示模式</string>
+    <string name="a11y_monitor_readout">%1$s, %2$s</string>
+    <string name="a11y_readout_resolution">分辨率</string>
+    <string name="a11y_readout_codec">编码</string>
+    <string name="a11y_readout_size">图像大小</string>
+    <string name="a11y_readout_quality">图像质量</string>
+    <string name="a11y_readout_media">存储</string>
+</resources>
